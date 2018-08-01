@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Index de imagenes</title>
   </head>
+  f
   <body>
     <form action="proceso_guardar.php" method="post" enctype="multipart/form-data">
       <input type="text" name="nombre"  placeholder="Nombre" value="" required>
@@ -13,4 +14,7 @@
       <input type="submit" name="" value="Aceptar">
     </form>
   </body>
+  <footer>
+    <h1>laiudhfvgpaiwuhgvijaSNcd</h1>
+  </footer>
 </html>

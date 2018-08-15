@@ -1,5 +1,3 @@
 #Subir imagenes a BD con campos BLOB con PHP 7.2  
-As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+Este es un proyecto sencillo donde se suben `imagenes` a una bd con campos BLOB.
